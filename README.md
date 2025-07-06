@@ -4,6 +4,7 @@ A simple, privacy-first time tracking app built in **Python + customtkinter**.
 Perfect for developers, freelancers, students, and anyone who wants to track work without distractions.
 
 ---
+![hero](https://github.com/user-attachments/assets/825120d0-c25a-46e7-84a5-1d167d9b8744)
 
 ✨ Key Features
 
@@ -19,9 +20,9 @@ Perfect for developers, freelancers, students, and anyone who wants to track wor
 
 ## 💾 Download
 
-📥 [Download Time Keeper (Windows)](https://github.com/yourusername/TimeKeeper-App/releases/latest )
+📥 [Download Time Keeper (Windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)]( https://github.com/yourusername/TimeKeeper-App/releases/latest )
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
 
 ---
 
@@ -35,7 +36,7 @@ There are plenty of powerful tools out there, but sometimes you just want to **t
 
 ## 📦 How to Use
 
-1. Download the `.exe` from the latest [GitHub Release](https://github.com/yourusername/TimeKeeper-App/releases/latest )
+1. Download the `.exe` from the latest [GitHub Release](https://github.com/a-k-14/time_keeper/releases/v1.0)
 2. Run it — no installation required
 3. Select or add a task
 4. Start, pause, or end your timer
