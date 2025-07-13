@@ -4,6 +4,13 @@ A lightweight & minimalistic time tracking app built in **Python + customtkinter
 Perfect for developers, freelancers, students, and anyone who wants to track work without complex setups or distractions.
 
 ---
+## 💾 Download
+
+📥 [Download Time Keeper (Windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
+
+---
 ![hero](https://github.com/user-attachments/assets/825120d0-c25a-46e7-84a5-1d167d9b8744)
 
 ## Key Features
@@ -15,14 +22,6 @@ Perfect for developers, freelancers, students, and anyone who wants to track wor
 | 📊 **Local Excel Logging** | All data stored locally in an Excel file (`Task_Timer.xlsx`), no cloud, no accounts, just your data! |
 | 😴 **Smart Sleep Handling** | Automatically detects system sleep/freeze so you never lose progress |
 | 📦 **Fully Self-Contained** | ~41MB `.exe` includes all dependencies — no installers or internet needed |
-
----
-
-## 💾 Download
-
-📥 [Download Time Keeper (Windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
-
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
 
 ---
 
