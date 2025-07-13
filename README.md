@@ -1,12 +1,12 @@
 # 🕒 Time Keeper – Minimalist Time Tracker
 
-A simple, privacy-first time tracking app built in **Python + customtkinter**.  
-Perfect for developers, freelancers, students, and anyone who wants to track work without distractions.
+A lightweight & minimalistic time tracking app built in **Python + customtkinter**.  
+Perfect for developers, freelancers, students, and anyone who wants to track work without complex setups or distractions.
 
 ---
 ![hero](https://github.com/user-attachments/assets/825120d0-c25a-46e7-84a5-1d167d9b8744)
 
-✨ Key Features
+## Key Features
 
 | Feature | Description |
 |--------|-------------|
@@ -28,9 +28,9 @@ Perfect for developers, freelancers, students, and anyone who wants to track wor
 
 ## 🧠 Why It Was Built
 
-Time Keeper was born out of a need for a **lightweight, no-login time tracker** that respects privacy and avoids bloat.
+Time Keeper was born out of a need for a **lightweight, bloat free, no-login time tracker**.
 
-There are plenty of powerful tools out there, but sometimes you just want to **track work and move on** — that's where this app shines.
+There are plenty of powerful tools out there, but sometimes you just want to **track work and move on** - that's where this app shines.
 
 ---
 
@@ -53,7 +53,7 @@ Built as a solo side project using:
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter )
 - Excel backend for logging
 
-Follow my #BuildInPublic journey on Twitter/X: [@yourtwitter](https://twitter.com/yourtwitter )
+Follow my #BuildInPublic journey on Twitter/X: [@akshay_r2](https://x.com/akshay_r2)
 
 
 
