@@ -11,7 +11,8 @@ Perfect for developers, freelancers, students, and anyone who wants to track wor
 [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
 
 ---
-![hero](https://github.com/user-attachments/assets/825120d0-c25a-46e7-84a5-1d167d9b8744)
+<img width="1265" height="843" alt="Screenshot (1072)" src="https://github.com/user-attachments/assets/bc925e60-fa98-407c-9bbc-f9a814133f9c" />
+
 
 ## Key Features
 
