@@ -6,9 +6,9 @@ Perfect for developers, freelancers, students, and anyone who wants to track wor
 ---
 ## 💾 Download
 
-📥 [Download Time Keeper (Windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
+📥 [Download Time Keeper (Windows)](https://github.com/a-k-14/time_keeper/releases/v1.1)
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.0)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/a-k-14/time_keeper/releases/v1.1)
 
 ---
 <img width="1265" height="843" alt="Screenshot (1072)" src="https://github.com/user-attachments/assets/bc925e60-fa98-407c-9bbc-f9a814133f9c" />
