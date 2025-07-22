@@ -36,7 +36,7 @@ There are plenty of powerful tools out there, but sometimes you just want to **t
 
 ## 📦 How to Use
 
-1. Download the `.exe` from the latest [GitHub Release](https://github.com/a-k-14/time_keeper/releases/v1.0)
+1. Download the `.exe` from the latest [GitHub Release](https://github.com/a-k-14/time_keeper/releases/v1.1)
 2. Run it — no installation required
 3. Select or add a task
 4. Start, pause, or end your timer
